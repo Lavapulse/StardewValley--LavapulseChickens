@@ -1,0 +1,5 @@
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickensSMAPI\bin\Debug\LavapulseChickens.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickensSMAPI\bin\Debug\LavapulseChickens.pdb
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickensSMAPI\obj\Debug\LavapulseChickensSMAPI.csprojAssemblyReference.cache
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickensSMAPI\obj\Debug\LavapulseChickens.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickensSMAPI\obj\Debug\LavapulseChickens.pdb

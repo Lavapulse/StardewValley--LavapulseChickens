@@ -1,0 +1,43 @@
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\LavapulseChickens.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\LavapulseChickens.pdb
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\obj\Debug\LavapulseChickens.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\obj\Debug\LavapulseChickens.pdb
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\0Harmony.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\obj\Debug\LavapulseChickens.csproj.CopyComplete
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Small Ameraucana Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Large Ameraucana Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Small Silkie Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Large Silkie Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Small Wyandotte Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Large Wyandotte Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Small Easter Egger Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\eggs\Large Easter Egger Chicken Egg.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBlackEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBlackSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBlueAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBrownWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBuff Silkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyBuffSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyGoldWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyRedAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabySilverEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabySilverWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyWheatenAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyWheatenEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BabyWhiteSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BlackEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BlackSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BlueAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BrownWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\BuffSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\GoldWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\RedAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\SilverEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\SilverWyandotte Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\WheatenAmeraucana Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\WheatenEaster Egger Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\assets\animals\WhiteSilkie Chicken.png
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\bin\Debug\content.json
+C:\Users\TheOttoCats\Modding\Stardew Valley\Lavapulse\LavapulseChickens\obj\Debug\LavapulseChickens.csprojAssemblyReference.cache
